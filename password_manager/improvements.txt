@@ -1,0 +1,3 @@
+- Password requirements (symbols,digits...)
+- Storage in an encrypted file 
+- Cypher password to avoid admins to be able to view passwords by watching the interface
